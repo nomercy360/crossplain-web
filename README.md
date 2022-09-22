@@ -21,4 +21,4 @@ pnpm run dev
 ```bash
 docker build -t crossplain/web-ui .
 docker run -p 3000:3000 crossplain/web-ui
-```# crossplain-web
+```
